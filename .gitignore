@@ -1,0 +1,5 @@
+# Built artefacts
+build/
+
+# Runtime artefacts
+*.txt
