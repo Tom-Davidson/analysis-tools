@@ -18,3 +18,6 @@ cd build && tar -xzf arachni.tar.gz && rm -f arachni.tar.gz && cd ../
 
 # sqlmap: http://sqlmap.org/
 docker pull paoloo/sqlmap
+
+# testssl.sh: https://github.com/drwetter/testssl.sh
+docker pull drwetter/testssl.sh
